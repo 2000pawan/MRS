@@ -1,0 +1,5 @@
+pip
+pickle
+pndas
+streamlit
+bz2file
